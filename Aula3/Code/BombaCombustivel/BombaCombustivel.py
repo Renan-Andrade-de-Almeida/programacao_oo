@@ -112,7 +112,7 @@ class Veiculo:
 
 
 # Testes
-'''
+
 v1 = Veiculo(8, 35, 90000 ,'Fiat Uno','Passeio')
 v1.buzinar()
 
@@ -133,7 +133,7 @@ print('\n')
 bomba1.abastecerPorValor(100,v1)
 print(bomba1.getquantidadeCombustivel())
 print(bomba1.getValorLitro())
-'''
+
 #print('\nstr:')
 #print(bomba1)
 
