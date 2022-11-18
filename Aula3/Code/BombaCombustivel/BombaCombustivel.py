@@ -118,7 +118,7 @@ class Veiculo:
 
 v1 = Veiculo(8, 35, 90000 ,'Fiat Uno','Passeio')
 v1.buzinar()
-'''
+
 bomba1 = BombaCombustivel(10000,'Gasolina Aditivada', 7.30 )
 v1 = Veiculo(8, 35, 90000 ,'Fiat Uno','Passeio')
 
